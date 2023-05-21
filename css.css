@@ -1,0 +1,23 @@
+aside {
+	background-color: lightgoldenrodyellow;
+}	
+span {
+	font-size: 4em;
+}
+ul {
+	text-transform: uppercase;	
+	margin-left: 190px;
+}
+ul li {
+	font-size: 0.25em;	
+	text-decoration: underline;
+}
+main {
+	background-color: darkslateblue;
+}	
+footer {
+	background-color: green;
+}	
+img {
+	height: 300px;
+}
